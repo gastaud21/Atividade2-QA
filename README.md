@@ -22,3 +22,5 @@ Feature: Login no site SauceDemo
     When ele insere um nome de usuário e senha válidos
     And ele envia o formulário de login
     Then ele deve ser redirecionado para a página de inventário
+
+UTILIZAR A BIBLIOTECA SELENIUM PARA RODAR OS ARQUIVOS!
